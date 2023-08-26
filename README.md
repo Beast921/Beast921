@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beast921&show_icons=true&theme=radical&hide_border=true&locale=en" alt="beast921" /></p>
 
-<p><img align="center" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" /></p>
+<p align="center"><img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" /></p>
