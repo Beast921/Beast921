@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Chirag</h1>
-<h3 align="center">I can sorta code..</h3>
+<h3 align="center">Final year computer science engineering graduate</h3>
 
 - 🌱 I’m currently learning **Next.js**
 
