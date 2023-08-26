@@ -21,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beast921&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="beast921" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beast921&show_icons=true&theme=radical&hide_border=true&locale=en" alt="beast921" /></p>
+
+<p><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3GQhdDM7eR7rD6br5SGofF&ust=1693157750023000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjk-qPu-oADFQAAAAAdAAAAABA1" alt="coder gif"</p>
