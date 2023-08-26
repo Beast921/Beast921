@@ -20,6 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beast921&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="beast921" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=beast921&show_icons=true&theme=radical&hide_border=true&locale=en" alt="beast921" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beast921&show_icons=true&theme=radical&hide_border=true&locale=en" alt="beast921" /></p>
 
-![image](https://github.com/Beast921/Beast921/assets/52277251/6ac85505-29d3-49b3-a065-c949f61152b5)
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
