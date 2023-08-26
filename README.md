@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beast921&show_icons=true&theme=radical&hide_border=true&locale=en" alt="beast921" /></p>
 
-<img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<img align="center" alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
