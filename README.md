@@ -20,4 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beast921&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="beast921" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beast921&show_icons=true&theme=radical&locale=en" alt="beast921" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beast921&show_icons=true&theme=tokyonight&locale=en" alt="beast921" /></p>
