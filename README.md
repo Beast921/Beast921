@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Chirag</h1>
+<h1 align="center">Hey there, I'm Chirag</h1>
 <h3 align="center">Final year computer science engineering graduate</h3>
 
 - 🌱 I’m currently learning **Next.js**
@@ -6,8 +6,6 @@
 - 💬 Ask me about **web and software development**
 
 - 📫 Reach me by email **chiragnair03@gmail.com**
-
-- ⚡ Fun fact **I'm a film buff.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
